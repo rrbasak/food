@@ -23,8 +23,18 @@ a{
 /* #second{
     
 } */
+
+#home1{
+    display: flex;
+    height: 607px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+ }
+
 #home1::before{
-    height: 285px;
+    height: 334px;
 }
 .btn{
     margin-bottom: 113px;
